@@ -1,6 +1,6 @@
-# Poker
+# Poker-Exs
 
-Poker basic functions to learn elixir
+Basic poker game functions using Elixir
 
 ## Installation
 
